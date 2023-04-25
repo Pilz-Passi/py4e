@@ -4,5 +4,5 @@ def combat(health, damage):
         return 0
     return health
 
-result = combat(20, 30)
+result = combat(10, 30)
 print(result)

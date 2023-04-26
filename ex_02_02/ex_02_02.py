@@ -1,2 +1,2 @@
-nzt = input("Enter your name: ")
-print("hello",nzt)
+nxt = input("Enter your name: ")
+print("hello",nxt)
